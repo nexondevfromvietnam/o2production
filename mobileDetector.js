@@ -5,4 +5,5 @@ function DetectTheThing() {
         || uagent.search("webos") > -1){
                   window.location.href ="https://mobile.o2production.ndqm.site";
         }}
-DetectTheThing(); //start detector
+//DetectTheThing(); //start detector
+//mobile version not ready, stop detector
